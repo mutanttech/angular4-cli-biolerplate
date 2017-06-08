@@ -26,7 +26,7 @@ Clone this repo into new project folder (e.g., `my-proj`).
 git clone https://github.com/mutanttech/angular4-cli-boilerplate  my-proj
 cd my-proj
 ```
-I have included the node_modules in this repository but in zipped format, thus you need to go inside the node_modules directory and extract node_modules1.zip and node_modules2.zip here. You can delete the zip's after extraction. After everything is setup now you are ready to run your first angular 4 app, just open a git bash or command prompt from inside the repo directory and run following command:
+I have included the node_modules in this repository in zipped format, thus you need to go inside the node_modules directory and extract node_modules_1.zip and node_modules_2.zip here. You can delete the zip's after extraction. After everything is setup now you are ready to run your first angular 4 app, just open a git bash or command prompt from inside the repo directory and run following command:
 
 ```shell
 ng serve -o
