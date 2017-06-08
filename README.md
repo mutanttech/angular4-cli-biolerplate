@@ -31,7 +31,7 @@ I have included the node_modules in this repository in zipped format, thus you n
 ```shell
 ng serve -o
 
-if by chance the port 4200 is already taken on your computer then run following command providing a port number in place of XXXX
+**If by chance the port 4200 is already taken on your computer then run following command providing a port number in place of XXXX
 
 ng serve -o --port XXXX
 ```
